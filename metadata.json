@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pawn Shop, Loan, and Installment Management System",
+  "description": "A comprehensive commercial-grade management panel for pawnshops, loans, and installment plans with multi-currency interest tracking, payment schedules, inventory, and accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
